@@ -34,8 +34,6 @@ Dataset source:
 - Trip distance
 - RateCodeID
 
-## 📈 Example Metrics
+## 📈 Metric
 
-- RMSE: *to be filled after training*
-- MAE: *to be filled after training*
-- R²: *to be filled after training*
+- RMSE: **3.29**
